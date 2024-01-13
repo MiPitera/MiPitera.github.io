@@ -1,4 +1,4 @@
-#top 10 najlepszy i top 10 najgorszych otwarć szachowych 
+#top 10 najlepszych i top 10 najgorszych otwarć szachowych 
 
 ## NAJLEPSZE OTWARCIA:
 1. Gambit Sandomierski - ta nietypowa zagrywka wymyślona przez słynnego księdza z Sandomierza pozwoli ci zyskać przewagę (głównie mentalną) nad przeciwnikiem **UWAGA** wykorzystanie go może skutkować wyzerowaniem wyniku w turnieju (Runda 17 Mistrzostw Świata W szachach błyskwaicznych 2024 Dubov - Nepomniatch) 
