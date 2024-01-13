@@ -10,7 +10,7 @@
 7. Obrona słowiańska - Analogicznie do obrony pół-słowiańskiej główną jej taktyką jest uśpienie przeciwnika. Jednak w przypadku obrony słowiańskiej w odróżnieniu od pół-słowiańskiej ty też musisz uważać aby nie zasnąć (zwłaszcza kiedy twój przeciwnik chce cię sprawdzić pod tym askeptem i zagra wariant wymienny)
 8. Bongcloud - Trener mówi aby robić roszadę i wyprowadać lekkie figury? Bzdura! 1.e4 e5 2. Ke2!! to jest to co powinieneś grać
 9. Gambit tenisona wariant interkontynentalnego pocisku balistycznego - tak jest tak dobry jak nazwa
-10. 1. b4 - to otwarcie bez jednoznacznej nazwy stosowane przezemnie od lat z wielkimi sukcesami - polecam każdemu
+10. 1.b4 - to otwarcie bez jednoznacznej nazwy stosowane przezemnie od lat z wielkimi sukcesami - polecam każdemu
 
 ## NAJGORSZE OTWARCIA:
 1. System Londyński
