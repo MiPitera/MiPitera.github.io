@@ -1,0 +1,6 @@
+
+title: MiPitera's page
+description: nr 3 na liście top 10 stron w tej części internetu 
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
